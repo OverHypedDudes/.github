@@ -5,6 +5,6 @@ Enjoy! :)
 
 ## Team Members
 ### Directors
-xMichael, Getsaa
+Getsaa, Valerange
 ### Co-Directors
-Brokiri, Valerange
+Brokiri
